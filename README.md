@@ -1,5 +1,5 @@
-##SevSegFloat
-#An Arduino Library that Formats Floats for Seven Segment Serial Displays
+#SevSegFloat
+##An Arduino Library that Formats Floats for Seven Segment Serial Displays
 
 I was frustrated with the existing libraries for the [Sparkfun SevSeg Serial Displays](https://www.sparkfun.com/products/11441), so I hacked my first library together in a day. Right now it works for numbers between 9999 and -999, and I'm planning on expanding it to 1E999 and -1E99.
 
